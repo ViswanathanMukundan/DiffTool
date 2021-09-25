@@ -9,6 +9,9 @@ import javafx.scene.text.FontPosture;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 
+/*
+CLASS TO DISPLAY CONTENTS OF A FILE(S) ON A JAVAFX STAGE
+*/
 public class TextDisplay extends Application
 {
 	@Override
