@@ -2,6 +2,9 @@ package com.mv.diffUtil;
 
 import java.util.Scanner;
 
+/*
+BASIC FILE COMPARISON BY READING LINES INDIVIDUALLY.
+*/
 public class FileComparer
 {
 	void fileCompare(String firstFilePath, String secondFilePath)
